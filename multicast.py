@@ -1,5 +1,6 @@
 #! /usr/bin/python
-#
+#Written by John McCormack
+#22/05/2014
 
 #
 
